@@ -1,0 +1,9 @@
+{
+  "name": "ntm",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.2.3"
+  },
+  "devDependencies": {}
+}
